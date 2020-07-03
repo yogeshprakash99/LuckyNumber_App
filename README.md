@@ -1,4 +1,4 @@
-# luckynumberapp
+# Lucky Number
 
 A new Flutter application.
 
